@@ -4,7 +4,7 @@
 
 It allows users to enter a long URL and generate a unique shortened URL. When the shortened URL is opened, the application redirects the user to the original URL.
 
-!(img Alt)(https://github.com/TheKai99/Littly---urlshortner/blob/8ed5be40af2e8fa0bd192e65983f78934a146835/first.jpg)
+!(image alt)(https://github.com/TheKai99/Littly---urlshortner/blob/8ed5be40af2e8fa0bd192e65983f78934a146835/first.jpg)
 
 ## ✨ Features
 
