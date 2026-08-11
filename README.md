@@ -6,6 +6,7 @@ It allows users to enter a long URL and generate a unique shortened URL. When th
 
 ![Littly](first.jpg)
 
+![Littly](second.jpg)
 ## ✨ Features
 
 * Generate a unique short URL
