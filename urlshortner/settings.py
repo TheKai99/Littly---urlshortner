@@ -27,6 +27,8 @@ DEBUG = True
 
 ALLOWED_HOSTS = ['littly-urlshortner-production.up.railway.app']
 
+CSRF_TRUSTED_ORIGINS = ['https://littly-urlshortner-production.up.railway.app']
+
 
 # Application definition
 
